@@ -11,3 +11,10 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+ruby:
+  title: Some Coffee
+  description: 
+     This article is about the beverage, which comes in many forms. For the seed from which it is made, see Coffee bean. For other uses, see Coffee (disambiguation)!
+   price: 12.99
+   image_url: coffee.jpg  
