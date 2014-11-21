@@ -15,17 +15,19 @@
  */
 
 #banner{
-	background: #9c9;
+	background: #A9AC9B;
 	padding: 10px;
 	border-bottom: 2px solid;
 	font: small-caps 40px/40px "Times New Roman", serif;
-	color: #282;
+	color: #3C6382;
 	text-align: center;
-	img{float: left;}
+	img{
+		float: left;
+	}
 }
 
 #notice{
-	color: #000 !important;
+	color: #000 ;
 	border: 2px solid red;
 	padding: 1em;
 	margin-bottom: 2em;
@@ -35,18 +37,20 @@
 }
 
 #columns{
-	background: #141;
+	background: #033A47;
+	overflow: auto;
+
 
 	#main{
 		margin-left: 17em;
 		padding: 1em;
-		background: white;
+		background: #F8F8D6;
 	}
 	#side{
 		float: left;
 		padding: 1em 2em;
 		width: 13em;
-		background: #141;
+		background: #4A4B50;
 	}
 
 	ul{
