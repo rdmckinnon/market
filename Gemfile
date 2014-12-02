@@ -42,3 +42,7 @@ gem 'spring',        group: :development
 # gem 'autoprefixer-rails'
 
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
+
+gem 'bcrypt', '~> 3.1.7'
+
+gem 'devise'

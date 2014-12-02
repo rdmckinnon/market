@@ -18,7 +18,7 @@
 	background: #A9AC9B;
 	padding: 10px;
 	border-bottom: 2px solid;
-	font: small-caps 40px/40px "Times New Roman", serif;
+	font: small-caps 40px/40px "Comic Sans", serif;
 	color: #3C6382;
 	text-align: center;
 	img{
@@ -38,7 +38,7 @@
 
 #columns{
 	background: #033A47;
-	overflow: auto;
+	
 
 
 	#main{
@@ -51,7 +51,29 @@
 		padding: 1em 2em;
 		width: 13em;
 		background: #4A4B50;
+
+	form, div{
+		display:inline;
+
 	}
+	input{
+
+		font-size: small;
+	}
+
+	#cart{
+
+		font-style: smaller;
+		color: white;
+	
+
+	table {
+
+		border-top: 1px dotted #595;
+		border-bottom: 1px dotted #595;
+		margin-bottom: 10px;
+	}
+}
 
 	ul{
 		padding: 0;
@@ -64,4 +86,5 @@
 			
 		}
 	}
+}
 }
